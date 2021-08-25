@@ -5,7 +5,7 @@ Creating a application for simple Employee Management using Reactjs, PHP and MyS
   2. Manager can have all permission like, add/update/view/delete employees.
   3. When employee login they can add/update/view/delete their skills with percentages.
   
- #Features
+ # Features
   Reactjs as fronted using bootstrap 5.0 for UI components
   Routing are implemented for navigation
  
